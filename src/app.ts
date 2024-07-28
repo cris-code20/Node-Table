@@ -9,7 +9,7 @@ console.log('==========================================');
 console.log(title);
 console.log('==========================================');
 let print:string = '';
-const tableFive:number = 5;
+const tableFive:number = 8;
 
 for(let i:number = 1; i <= 10; i++){
    print += `${tableFive} X ${ i } = ${tableFive * i }\n` 
